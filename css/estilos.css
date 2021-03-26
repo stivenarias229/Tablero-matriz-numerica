@@ -1,0 +1,34 @@
+.casilla{
+	width: 19%; 
+	border: 1px solid; 
+	margin: 0; 
+	display: inline-block; 
+	text-align: center;
+	height: 30px;
+}
+
+body{
+	width: 100%;
+}
+
+.presionada{
+	background: red; 
+	width: 19%; margin: 0; 
+	display: inline-block; 
+	text-align: center;
+	height: 30px;
+}
+
+.eti_dispo, #etiqueta_contador{
+	padding-right: 10px;
+	line-height: 92px;
+}
+
+.label_formu{
+	font-size: 20px;
+}
+
+.formulario{
+	width: 50%;
+	padding-bottom: 1em;
+}
